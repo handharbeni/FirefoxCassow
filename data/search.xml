@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
+  <ShortName>Cassow</ShortName>
+  <Description>Cassow Search Engine</Description>
+  <InputEncoding>UTF-8</InputEncoding>
+  <LongName>Plugin Cassow Search Engine</LongName>  
+  <Url type="text/html" method="get" template="https://cassow.com/">
+    <Param name="q" value="{searchTerms}"/>
+  </Url>
+</OpenSearchDescription>

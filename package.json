@@ -1,0 +1,15 @@
+{
+    "description": "Cassow Search Engine",
+    "author": "CassowTeam@outlook.com",
+    "version": "2.5.0",
+    "title": "Cassow",
+    "icon": {
+      "48": "icon_48.png",
+      "64": "icon_64.png"
+    },
+    "name": "FakeCassow",
+    "main": "lib/main.js",
+    "permissions": {
+      "multiprocess": true
+    }
+}
